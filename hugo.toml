@@ -1,4 +1,5 @@
-baseURL = 'jimmychin946.github.io/profile'
+baseURL = 'https://jimmychin946.github.io/profile'
+# baseURL = 'http://localhost:1313'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'hugo-profile'
